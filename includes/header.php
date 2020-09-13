@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Kalpis Inventory </title>
+	<title>Laptop Inventory </title>
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">	
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/plugins/datatables/datatables.min.css">
@@ -19,7 +19,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="index.php">Kalpis Inventory | Webaeros Inc.</a>
+      <a class="navbar-brand" href="index.php">Laptop Inventory</a>
     </div>
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
